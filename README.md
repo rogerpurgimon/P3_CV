@@ -20,5 +20,5 @@ Run tasks.py to execute the exercises. <br />
 ## Task 4
 Open the Task4 folder. The screenshots shows the information of the streaming provided by the developer tools.
 In the Screenshot_mpd.png image you can see on the left side the .mpd files and on the right side the information of the selected file. <br />
-This is DASH streaming because we can relate .mpd to MPEG-DASH and .m3u8 to HLS streaming. We can also see the general information and the response and request headers.
+This is DASH streaming because we can relate .mpd to MPEG-DASH and .ts/.m3u8 to HLS streaming. We can also see the general information and the response and request headers.
 In the Screenshot_browser.png image we can see more request headers information such as the browser or the OS.
